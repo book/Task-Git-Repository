@@ -40,6 +40,8 @@ L<Git::Repository::Plugin::File> - Add a file() method to Git::Repository
 
 L<Git::Repository::Plugin::FileHistory> - Class representing file on git repository
 
+L<Git::Repository::Plugin::Gerrit> - Add some integration with Gerrit
+
 L<Git::Repository::Plugin::Hooks> - Work with hooks in a L<Git::Repository>
 
 L<Git::Repository::Plugin::Info> - Information about a L<Git::Repository>
@@ -47,6 +49,7 @@ L<Git::Repository::Plugin::Info> - Information about a L<Git::Repository>
 L<Git::Repository::Plugin::Log> - Add a log() method to Git::Repository
 
 L<Git::Repository::Plugin::Status> - Show the working tree status
+
 
 =head1 COPYRIGHT
 
