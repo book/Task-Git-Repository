@@ -36,8 +36,6 @@ L<Git::Repository::Plugin::AUTOLOAD> - Git subcommands as L<Git::Repository> met
 
 L<Git::Repository::Plugin::Blame> - Add a blame() method to L<Git::Repository>
 
-L<Git::Repository::Plugin::File> - Add a file() method to Git::Repository
-
 L<Git::Repository::Plugin::FileHistory> - Class representing file on git repository
 
 L<Git::Repository::Plugin::Gerrit> - Add some integration with Gerrit
@@ -53,7 +51,7 @@ L<Git::Repository::Plugin::Status> - Show the working tree status
 
 =head1 COPYRIGHT
 
-Copyright 2014 Philippe Bruhat (BooK), All Rights Reserved.
+Copyright 2014-2015 Philippe Bruhat (BooK), All Rights Reserved.
 
 =head1 LICENSE
 
