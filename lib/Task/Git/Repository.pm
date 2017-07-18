@@ -7,7 +7,9 @@ use warnings;
 
 __END__
 
-# ABSTRACT: Install all Git::Repository plugins at once
+=head1 NAME
+
+Task::Git::Repository - Install all Git::Repository plugins at once
 
 =head1 SYNOPSIS
 
@@ -48,6 +50,19 @@ L<Git::Repository::Plugin::Log> - Add a log() method to Git::Repository
 
 L<Git::Repository::Plugin::Status> - Show the working tree status
 
+=head1 BUGS
+
+Please report any bugs or feature requests on the bugtracker website
+http://rt.cpan.org/NoAuth/Bugs.html?Dist=Task-Git-Repository or by email to
+bug-task-git-repository@rt.cpan.org.
+
+When submitting a bug or request, please include a test-file or a
+patch to an existing test-file that illustrates the bug or desired
+feature.
+
+=head1 AUTHOR
+
+Philippe Bruhat (BooK) <book@cpan.org>
 
 =head1 COPYRIGHT
 
