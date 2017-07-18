@@ -42,6 +42,8 @@ L<Git::Repository::Plugin::FileHistory> - Class representing file on git reposit
 
 L<Git::Repository::Plugin::Gerrit> - Add some integration with Gerrit
 
+L<Git::Repository::Plugin::GitHooks> - A Git::Repository plugin with some goodies for hook developers
+
 L<Git::Repository::Plugin::Hooks> - Work with hooks in a L<Git::Repository>
 
 L<Git::Repository::Plugin::Info> - Information about a L<Git::Repository>
