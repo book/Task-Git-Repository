@@ -70,7 +70,7 @@ Philippe Bruhat (BooK) <book@cpan.org>
 
 =head1 COPYRIGHT
 
-Copyright 2014-2017 Philippe Bruhat (BooK), All Rights Reserved.
+Copyright 2014-2018 Philippe Bruhat (BooK), All Rights Reserved.
 
 =head1 LICENSE
 
