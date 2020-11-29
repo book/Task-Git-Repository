@@ -40,6 +40,8 @@ L<Git::Repository::Plugin::Blame> - Add a blame() method to L<Git::Repository>
 
 L<Git::Repository::Plugin::Dirty> - methods to inspect the dirtiness of a git repository
 
+L<Git::Repository::Plugin::Diff> - Add diff method to Git::Repository
+
 L<Git::Repository::Plugin::FileHistory> - Class representing file on git repository
 
 L<Git::Repository::Plugin::Gerrit> - Add some integration with Gerrit
